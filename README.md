@@ -1,2 +1,3 @@
-# weather
-Learning React Native by a weather app 
+# Weather
+
+Learning React Native by a weather app
